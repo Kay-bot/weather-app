@@ -1,5 +1,7 @@
 body {
-  background: #eeedec;
+  background-image: url("img/summer.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
   letter-spacing: 0.2em;
   font-size: 0.8em;
 }
@@ -12,4 +14,12 @@ body {
   border-radius: 50%;
   width: 100px;
   margin-bottom: -50px;
+}
+.text {
+  font-size: 3em;
+  color: #e1e1e8;
+}
+
+.text-two {
+  color: #e1e1e8;
 }
