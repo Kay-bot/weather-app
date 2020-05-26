@@ -1,7 +1,8 @@
 body {
-  background-image: url("img/summer.gif");
+  /* background-image: url("img/summer.gif");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
+  background: #377ded;
   letter-spacing: 0.2em;
   font-size: 0.8em;
 }
